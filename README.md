@@ -29,3 +29,7 @@ O projeto foi criado como prática de desenvolvimento front-end, seguindo uma es
 - CSS3
   
 - Font Awesome (ícones de redes sociais)
+
+💻 Acesse o meu projeto:
+
+- https://kevyn-py.github.io/KGSdev-Portf-lio/
